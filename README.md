@@ -1,0 +1,1 @@
+The Task is to implement Clerk authentication and develop FastAPI endpoints for the RAG-based system, which includes website scraping, document upload, embedding into ChromaDB, and a chat interface that utilizes both website and document content to generate answers using an LLM.
